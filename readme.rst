@@ -26,6 +26,7 @@ Installation
 ************
 
 Put all File into your root webserver directory, basicly on htdocs (xampp) or public_html on comercial webhosting
+
 *******
 License
 *******
@@ -34,5 +35,4 @@ License
 Acknowledgement
 ***************
 
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
+thank EllisLab and CodeIgniter team
